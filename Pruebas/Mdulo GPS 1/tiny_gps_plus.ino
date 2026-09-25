@@ -1,3 +1,6 @@
+//el modulo usado es basico, asi que necesitamos un espacio libre de todo el ruido posible
+
+
 #include <Adafruit_TinyUSB.h> 
 #include <TinyGPS++.h>
 
