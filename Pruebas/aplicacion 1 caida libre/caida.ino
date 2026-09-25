@@ -1,3 +1,6 @@
+//se uso un modulo de buzzer incluido en el kit
+
+
 #include <Adafruit_TinyUSB.h>
 #include <Wire.h>
 #include <LIS3DHTR.h>
